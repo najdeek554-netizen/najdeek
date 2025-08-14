@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm najdeek</h1>
-<h3 align="center">A passii’m currently learning HTML and CSS 🎯 My goal is to become a Software Developer ✈️ I love travelling hikign and camping Ask me about my learning journey as a beginner</h3>
+<h3 align="center">i’m currently learning HTML and CSS 🎯 My goal is to become a Software Developer ✈️ I love travelling hikign and camping Ask me about my learning journey as a beginner</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=najdeek554-netizen&label=Profile%20views&color=0e75b6&style=flat" alt="najdeek554-netizen" /> </p>
 
