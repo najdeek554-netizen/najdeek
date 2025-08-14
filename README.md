@@ -1,3 +1,8 @@
+<!-- Banner -->
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="800" alt="Coding Banner">
+</p>
+
 <h1 align="center">Hi 👋, I'm najdeek</h1>
 <h3 align="center">A passii’m currently learning HTML and CSS 🎯 My goal is to become a Software Developer ✈️ I love travelling hikign and camping Ask me about my learning journey as a beginner</h3>
 
