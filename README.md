@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Najdeek</h1>
-<h3 align="center">Beginner Software Developer | Travel, Hiking & Camping Enthusiast</h3>
+<h3 align="center">Beginner Software Developer </h3>
 
 ---
 
@@ -18,7 +18,7 @@
 
 ### 📫 Connect With Me
 <p>
-  <a href="https://www.linkedin.com/in/naj-deeq-40538737a/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BZwZ2S4HCT4SgXLPbLaVVCA%3D%3D" target="_blank">
+  <a href="https://www.linkedin.com/in/YOUR-LINK-HERE" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
@@ -41,6 +41,7 @@
 
 ### 📈 Activity Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=najdeek&theme=tokyo-night" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=najdeek&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" />
 </p>
+
 
