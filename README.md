@@ -27,21 +27,23 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=najdeek&show_icons=true&theme=tokyonight" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=najdeek554&show_icons=true&theme=tokyonight
+" alt="GitHub stats" />
 </p>
 
 ---
 
 ### 🔥 My Coding Streak
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=najdeek&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=najdeek554&theme=tokyo-night
+" alt="GitHub Streak" />
 </p>
 
 ---
 
 ### 📈 Activity Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=najdeek&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=najdeek554&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" />
 </p>
 
 
